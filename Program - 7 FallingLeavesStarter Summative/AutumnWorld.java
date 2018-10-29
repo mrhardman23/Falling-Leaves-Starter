@@ -17,6 +17,7 @@ public class AutumnWorld  extends World
     {    
         // Create a new world with 20x20 cells with a cell size of 10x10 pixels.
         super(750, 500, 1);
+        
     }
     
     /**
@@ -27,4 +28,5 @@ public class AutumnWorld  extends World
     {
         
     }
+    
 }

@@ -2,6 +2,8 @@
 comment0.target=Leaf
 comment1.params=
 comment1.target=Leaf()
+comment1.text=\r\n\ Leaf\ is\ the\ constructor\ of\ objects\ of\ class\ Leaf\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ An\ object\ of\ class\ Leaf\r\n
 comment2.params=
 comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ method\ that\ is\ run\ on\ each\ iteration\ of\r\n\ the\ act\ cycle\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
 numComments=3
